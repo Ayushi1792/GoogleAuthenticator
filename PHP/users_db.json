@@ -1,0 +1,27 @@
+{
+    "Ayushi": {
+        "password": "$2y$10$TKKjxm\/YXeXXjFFhwqTcYOs1YpXszoMYamFgg.Fzx.kqK.Q3.twHq",
+        "secret_key": "B3QBRCLSGYV4PX6PLCWGIBX6BM",
+        "email": "aayushilaa1989@gmail.com"
+    },
+    "Ayushi Ojha": {
+        "password": "$2y$10$VH4IHWH2gWMHPEdIIDmciOZtbcfe1OAsxxbPuOYdkbB.AbLVWlH22",
+        "secret_key": "XGHMZHADNV6OVRWL3RTX72VNGQ",
+        "email": "aayushilaa1989@gmail.com"
+    },
+    "Ayushi O": {
+        "password": "$2y$10$KEegnlVGa7FVCecSkroh4uFVFakftoG6.BbPW5QdCC1uirn8I8ine",
+        "secret_key": "C5YSJV36WRGTRXBHYPFAHA6B5Y",
+        "email": "aayushilaa1989@gmail.com"
+    },
+    "Rakesh": {
+        "password": "$2y$10$SJOwXvEaz1EyOV8DuJoemOqCraMsbYN6kXA4XCj8gZXtwhYndBeUC",
+        "secret_key": "TAXKT3IAMXZZJLB5CX5XPRFDFQ",
+        "email": "aayushilaa1989@gmail.com"
+    },
+    "Ayush": {
+        "password": "$2y$10$D\/MiHiSRT\/5fpZiHmi6jAeGT4B2KyVklxFdULnyytYrdw\/q.nqUDO",
+        "secret_key": "HU7PRAJDEGFLZU2L3V7DA62CTA",
+        "email": "aayushilaa1989@gmail.com"
+    }
+}

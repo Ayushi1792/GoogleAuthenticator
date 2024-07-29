@@ -1,0 +1,8 @@
+{
+    "require": {
+        "spomky-labs/otphp": "^10.0",
+        "endroid/qr-code": "^4.0",
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.7"
+    }
+}
